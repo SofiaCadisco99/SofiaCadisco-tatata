@@ -1,0 +1,23 @@
+{
+  "name": "sofiacadisco-tatata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiaCadisco99/SofiaCadisco-tatata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SofiaCadisco99/SofiaCadisco-tatata/issues"
+  },
+  "homepage": "https://github.com/SofiaCadisco99/SofiaCadisco-tatata#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
