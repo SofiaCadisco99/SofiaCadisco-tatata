@@ -5,7 +5,7 @@ let express = require("express");
 //we are activating express
 let app = express();
 
-let port = 3000;
+let port = process.env.PORT || 3000;
 
 let server = app.listen(port);
 
